@@ -13,34 +13,35 @@
 
 ### 🛠️ Main Skills:
 <div align="center">
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117" alt="VSCode" />
-  <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117" alt="GitHub" />
-  <img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117" alt="CSS" />
+  <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=0D1117" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="React" />
+  <img src="https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0D1117" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-Express.js-0D1117?style=for-the-badge&logo=express&logoColor=ffffff&labelColor=0D1117" alt="Express.js" />
+  <img src="https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=0D1117" alt="MongoDB" />
 </div>
 
 ---
 
 ### ⚙️ Tools:
 <div align="center">
-  <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117" alt="GitHub" />
-  <img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117" alt="Windows" />
-  <img src="https://img.shields.io/badge/-Microsoft%20Office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117" alt="Microsoft Office" />
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117" alt="VSCode" />
+  <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0D1117" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=0D1117" alt="Postman" />
+  <img src="https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0D1117" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=0D1117" alt="Firebase" />
+  <img src="https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=0D1117" alt="Figma" />
 </div>
 
 ---
 
-### 📚 Other Knowledge:
+### 📚 Currently Studying:
 <div align="center">
-  <img src="https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117" alt="Figma" />
-</div>
-
----
-
-### 📘 Currently Studying:
-<div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=ffffff&labelColor=0D1117" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4&labelColor=0D1117" alt="Tailwind CSS" />
 </div>
 
 ---
