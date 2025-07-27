@@ -1,25 +1,25 @@
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&fontSize=20&animation=twinkling" />
 
-<h1 align="center">Hi 👋, I'm Renan Ramos</h1>
-<h3 align="center">💻 Systems Development Student | 🧠 AI & Web Dev Enthusiast</h3>
+<h1 align="center">Olá 👋, eu sou o Renan Ramos</h1>
+<h3 align="center">💻 Estudante de Desenvolvimento de Softwares | Explorador de Inteligência Artificial</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=25&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;I'm+from+São+Paulo,+Brazil.;I+study+Systems+Development+at+Fatec.;Enjoy+exploring+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=25&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+GitHub!;Sou+de+São+Paulo,+Brasil.;Estudo+Desenvolvimento+de+Sistemas+na+Fatec.;Vamos+construir+juntos+%F0%9F%9A%80" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre mim
 
-- 🎓 **Fatec** – Systems Development Student  
-- 🧠 Passionate about **JavaScript, AI, and Backend Systems**
-- 🌐 I love building **web apps, automations, and micro-SaaS projects**
-- ⚙️ Currently enhancing my skills in **Next.js**, **TypeScript**, and **Tailwind CSS**
+- 🎓 Cursando **Desenvolvimento de Softwares** na Fatec  
+- 🤖 Entusiasta em **Inteligência Artificial aplicada e automação **
+- 🛠️ Desenvolvedor focado em **backend, APIs e integrações modernas**
+- 💡 Sempre aprendendo algo novo, de frameworks modernos a infraestrutura escalável
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -32,7 +32,7 @@
 
 ---
 
-## 🧰 Tools I Use
+## 🧰 Ferramentas e Ambientes
 
 <div align="center">
   <img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
@@ -45,7 +45,7 @@
 
 ---
 
-## 📚 Currently Learning
+## 📚 Estudando Atualmente
 
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
@@ -55,7 +55,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Draxsd3&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=ffffff&bg_color=0D1117" />
@@ -64,7 +64,7 @@
 
 ---
 
-## ⚡ GitHub Activity
+## ⚡ Atividade Recente
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Draxsd3&bg_color=0D1117&color=00bfbf&line=00bfbf&point=ffffff&area=true&hide_border=true" />
@@ -72,7 +72,7 @@
 
 ---
 
-## 📈 Visitor Counter
+## 📈 Visitantes
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/Draxsd3/count.svg" />
