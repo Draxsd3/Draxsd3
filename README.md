@@ -1,56 +1,36 @@
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&fontSize=20&animation=twinkling" />
+<!-- Header animado -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Renan%20Ramos&fontAlign=50&fontAlignY=40&color=00bfbf&fontSize=40&desc=Estudante%20de%20Software%20|%20Explorador%20de%20IA&descSize=20&descAlign=50&descAlignY=60&animation=fadeIn" />
 
-<h1 align="center">Olá 👋, eu sou o Renan Ramos</h1>
-<h3 align="center">💻 Estudante de Desenvolvimento de Softwares | Explorador de Inteligência Artificial</h3>
+<h2 align="center">✨ Bem-vindo ao meu espaço no GitHub ✨</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=25&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+GitHub!;Sou+de+São+Paulo,+Brasil.;Estudo+Desenvolvimento+de+Sistemas+na+Fatec.;Vamos+construir+juntos+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00BFBF&center=true&vCenter=true&width=1000&lines=💻+Estudante+de+Desenvolvimento+de+Softwares;🤖+Entusiasta+em+Inteligência+Artificial;⚡+Construindo+projetos+com+propósito;🚀+Sempre+aprendendo+e+evoluindo" />
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🎓 Cursando **Desenvolvimento de Softwares** na Fatec  
-- 🤖 Entusiasta em **Inteligência Artificial aplicada e automação **
-- 🛠️ Desenvolvedor focado em **backend, APIs e integrações modernas**
-- 💡 Sempre aprendendo algo novo, de frameworks modernos a infraestrutura escalável
+- 🎓 Estudante de **Desenvolvimento de Sistemas** na Fatec  
+- 🤖 Explorador de **Inteligência Artificial** e automação inteligente  
+- 🛠️ Apaixonado por **backend, APIs e integrações modernas**  
+- 🌎 Acredito que tecnologia é ponte para transformar o futuro  
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Stack de Tecnologias
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933" />
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
 
----
+### 🔹 Linguagens & Frameworks  
+<img src="https://skillicons.dev/icons?i=js,nodejs,react,php,python,mysql" />
 
-## 🧰 Ferramentas e Ambientes
+### 🔹 Ferramentas & Ambientes  
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker,figma" />
 
-<div align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37" />
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-</div>
+### 🔹 Em progresso...  
+<img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind" />
 
----
-
-## 📚 Estudando Atualmente
-
-<div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4" />
 </div>
 
 ---
@@ -58,25 +38,32 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Draxsd3&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=ffffff&bg_color=0D1117" />
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draxsd3&layout=compact&hide_border=true&title_color=00bfbf&text_color=ffffff&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Draxsd3&show_icons=true&theme=radical&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=ffffff&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draxsd3&layout=compact&theme=radical&hide_border=true&title_color=00bfbf&text_color=ffffff&bg_color=0D1117" />
 </div>
 
 ---
 
 ## ⚡ Atividade Recente
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Draxsd3&bg_color=0D1117&color=00bfbf&line=00bfbf&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Visitantes
+## 🌍 Conecte-se comigo
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+  <a href="https://github.com/Draxsd3"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
+</p>
 
+---
+
+## 📈 Contador de Visitantes
 <p align="center">
   <img src="https://profile-counter.glitch.me/Draxsd3/count.svg" />
 </p>
 
-<!-- Footer -->
+<!-- Footer animado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer" />
