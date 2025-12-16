@@ -1,72 +1,99 @@
-<!-- Header animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=00bfbf&text=Renan%20Ramos&fontAlign=50&fontAlignY=35&animation=twinkling&fontSize=45&desc=Estudante%20de%20Software%20|%20Explorador%20de%20IA&descSize=20&descAlign=50&descAlignY=60" />
-
-<h2 align="center">✨ Bem-vindo ao meu GitHub ✨</h2>
+<h1 align="center">Renan Ramos</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFBF&size=24&center=true&vCenter=true&width=1000&lines=💻+Estudante+de+Desenvolvimento+de+Sistemas;🤖+Explorador+de+IA+e+Automação;⚡+Construindo+projetos+com+propósito;🚀+Sempre+aprendendo+e+evoluindo" />
+  Desenvolvimento de Sistemas • Backend & APIs • Automação de Processos com IA
+</p>
+
+<p align="center">
+  <a href="https://github.com/Draxsd3">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/seu-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=flat&logo=gmail&logoColor=EA4335" />
+  </a>
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## Sobre
 
-- 🎓 Estudante de **Desenvolvimento de Sistemas** na Fatec  
-- 🤖 Explorador de **Inteligência Artificial** aplicada e automação inteligente  
-- 🛠️ Apaixonado por **backend, APIs e integrações modernas**  
-- 🌎 Acredito que a tecnologia é ponte para transformar o futuro  
-
----
-
-## 🛠️ Minhas Tecnologias
-
-<div align="center">
-
-### 🔹 Linguagens & Frameworks  
-<img src="https://skillicons.dev/icons?i=js,nodejs,react,php,python,mysql" />
-
-### 🔹 Ferramentas & Ambientes  
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker,figma" />
-
-### 🔹 Em progresso...  
-<img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind" />
-
-</div>
+- 🎓 Estudante de Desenvolvimento de Sistemas — **FATEC**
+- 🤖 Automação de processos e aplicações práticas de **Inteligência Artificial**
+- 🔁 Orquestração de fluxos com **n8n**
+- 🛠️ Backend, APIs, integrações e sistemas prontos para produção
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Stack Tecnológica
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Draxsd3&show_icons=true&hide_border=true&theme=radical&title_color=00bfbf&icon_color=00bfbf&text_color=ffffff&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draxsd3&layout=compact&hide_border=true&theme=radical&title_color=00bfbf&text_color=ffffff&bg_color=0D1117" />
-</div>
+### Linguagens & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,php,python,mysql&perline=6" />
+</p>
 
----
-
-## ⚡ Atividade Recente
+### Automação de Processos & IA
+<p align="center">
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" height="34" title="n8n • Orquestração de fluxos" />
+  <img src="https://skillicons.dev/icons?i=openai" height="34" title="GPT • LLMs" />
+  <img src="https://skillicons.dev/icons?i=github" height="34" title="GitHub Copilot • IA assistida" />
+  <img src="https://skillicons.dev/icons?i=api" height="34" title="Integrações via API" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="34" title="Persistência de dados" />
+  <img src="https://skillicons.dev/icons?i=docker" height="34" title="Infraestrutura e deploy" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Draxsd3&bg_color=0D1117&color=00bfbf&line=00bfbf&point=ffffff&area=true&hide_border=true" />
+  <sub>
+    Orquestração • Integrações • Automação inteligente • IA aplicada a processos reais
+  </sub>
+</p>
+
+### Ferramentas & Ambiente
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma&perline=6" />
+</p>
+
+<p align="center">
+  <sub>Em evolução: TypeScript • Next.js • Tailwind CSS</sub><br/>
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind&perline=6" />
 </p>
 
 ---
 
-## 🌍 Conecte-se comigo
+## Atuação
+
+- Automação de processos operacionais e financeiros com n8n
+- Integração de APIs, bancos de dados e serviços externos
+- Aplicações de IA para análise, geração de conteúdo e apoio à decisão
+- Construção de fluxos escaláveis, reutilizáveis e orientados a produção
+
+---
+
+## GitHub Analytics
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-  <a href="https://github.com/Draxsd3"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=Draxsd3&show_icons=true&hide_border=true&theme=transparent&title_color=00bfbf&icon_color=00bfbf&text_color=ffffff" />
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draxsd3&layout=compact&hide_border=true&theme=transparent&title_color=00bfbf&text_color=ffffff" />
 </p>
 
 ---
 
-## 📈 Contador de Visitantes
+## Atividade
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Draxsd3/count.svg" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Draxsd3&theme=github-compact&hide_border=true&radius=6&area=true&line=00bfbf&point=00bfbf&color=9aa4b2&bg_color=0D1117"
+  />
 </p>
 
-<!-- Footer animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer" />
+---
+
+<p align="center">
+  <sub>
+    Automação não é sobre fazer mais rápido — é sobre fazer melhor.
+  </sub>
+</p>
