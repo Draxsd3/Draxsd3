@@ -23,7 +23,7 @@
 - 🎓 Estudante de Desenvolvimento de Sistemas — **FATEC**
 - 🤖 Automação de processos e aplicações práticas de **Inteligência Artificial**
 - 🔁 Orquestração de fluxos com **n8n**
-- 🛠️ Backend, APIs, integrações e sistemas prontos para produção
+- 🛠️ Backend, integrações e sistemas prontos para produção
 
 ---
 
@@ -34,29 +34,40 @@
   <img src="https://skillicons.dev/icons?i=js,nodejs,react,php,python,mysql&perline=6" />
 </p>
 
-### Automação de Processos & IA
+---
+
+## 🔁 Automação de Processos & IA
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" height="34" title="n8n • Orquestração de fluxos" />
-  <img src="https://skillicons.dev/icons?i=openai" height="34" title="GPT • LLMs" />
-  <img src="https://skillicons.dev/icons?i=github" height="34" title="GitHub Copilot • IA assistida" />
-  <img src="https://skillicons.dev/icons?i=api" height="34" title="Integrações via API" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="34" title="Persistência de dados" />
-  <img src="https://skillicons.dev/icons?i=docker" height="34" title="Infraestrutura e deploy" />
+  <!-- n8n -->
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png"
+       height="38"
+       title="n8n" />
 </p>
 
 <p align="center">
-  <sub>
-    Orquestração • Integrações • Automação inteligente • IA aplicada a processos reais
-  </sub>
+  <!-- GPT -->
+  <img src="https://img.shields.io/badge/GPT-LLMs-412991?style=flat&logo=openai&logoColor=white" />
+
+  <!-- GitHub Copilot -->
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-IA-181717?style=flat&logo=github&logoColor=white" />
+
+  <!-- Google Cloud -->
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" />
+
+  <!-- Nginx -->
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
 </p>
 
-### Ferramentas & Ambiente
+---
+
+## Ferramentas & Ambiente
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma&perline=6" />
+  <img src="https://skillicons.dev/icons?i=git,postman,vscode,figma&perline=8" />
 </p>
 
 <p align="center">
-  <sub>Em evolução: TypeScript • Next.js • Tailwind CSS</sub><br/>
+  <sub>Em evolução</sub><br/>
   <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind&perline=6" />
 </p>
 
@@ -64,10 +75,10 @@
 
 ## Atuação
 
-- Automação de processos operacionais e financeiros com n8n
-- Integração de APIs, bancos de dados e serviços externos
-- Aplicações de IA para análise, geração de conteúdo e apoio à decisão
-- Construção de fluxos escaláveis, reutilizáveis e orientados a produção
+- Automação de processos com n8n
+- Integração de sistemas e serviços
+- IA aplicada a fluxos e apoio à decisão
+- Soluções escaláveis e orientadas a produção
 
 ---
 
