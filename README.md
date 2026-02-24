@@ -90,37 +90,48 @@ Criação de fluxos automatizados com n8n, integração com modelos de linguagem
 
 ---
 
-## 🚀 Projetos em Destaque 
+<h2 align="center">🚀 Projetos em Destaque</h2>
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/Draxsd3/gestao-escolar-fullstack">
-  <img src="https://img.shields.io/badge/Gestão%20Escolar-FullStack-0D1117?style=for-the-badge&logo=github" />
-</a>
+<!-- Gestão Escolar -->
+<img src="https://cdn.simpleicons.org/laravel/FF2D20" height="24"/>
+<img src="https://cdn.simpleicons.org/php/777BB4" height="24"/>
+<img src="https://cdn.simpleicons.org/react/61DAFB" height="24"/>
+<img src="https://cdn.simpleicons.org/mysql/4479A1" height="24"/>
 
-<a href="https://github.com/Draxsd3/CRM-FullStack">
-  <img src="https://img.shields.io/badge/CRM-FullStack-0D1117?style=for-the-badge&logo=github" />
-</a>
+[![Gestão Escolar](https://img.shields.io/badge/GESTÃO%20ESCOLAR-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Draxsd3/gestao-escolar-fullstack)
 
-<a href="https://github.com/Draxsd3/api-email">
-  <img src="https://img.shields.io/badge/API-Email-0D1117?style=for-the-badge&logo=github" />
-</a>
 
-<a href="https://github.com/Draxsd3/sistema-loja-nodejs-DW3">
-  <img src="https://img.shields.io/badge/Sistema-Loja%20Node.js-0D1117?style=for-the-badge&logo=github" />
-</a>
+<!-- CRM -->
+<img src="https://cdn.simpleicons.org/node.js/339933" height="24"/>
+<img src="https://cdn.simpleicons.org/react/61DAFB" height="24"/>
 
-</p>
+[![CRM FULLSTACK](https://img.shields.io/badge/CRM%20FULLSTACK-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Draxsd3/CRM-FullStack)
 
----
+
+<!-- API Email -->
+<img src="https://cdn.simpleicons.org/node.js/339933" height="24"/>
+<img src="https://cdn.simpleicons.org/postman/FF6C37" height="24"/>
+
+[![API EMAIL](https://img.shields.io/badge/API%20EMAIL-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Draxsd3/api-email)
+
+
+<!-- Sistema Loja -->
+<img src="https://cdn.simpleicons.org/node.js/339933" height="24"/>
+<img src="https://cdn.simpleicons.org/express/ffffff" height="24"/>
+
+[![SISTEMA LOJA](https://img.shields.io/badge/SISTEMA%20LOJA-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Draxsd3/sistema-loja-nodejs-DW3)
+
+</div>
 
 ## 📈 Atividade
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Draxsd3&theme=github_dark" />
-</p>>
+</p>
 
----
+
 
 <p align="center">
   <sub>
