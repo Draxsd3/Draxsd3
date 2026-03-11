@@ -41,7 +41,7 @@ Minha atuação é direcionada para:
 
 **Automação + Backend + IA aplicada**
 
-Criação de fluxos automatizados com n8n, integração com modelos de linguagem (LLMs) e desenvolvimento de sistemas escaláveis com foco em eficiência operacional e apoio à decisão.
+Criação de fluxos automatizados com n8n, integração com modelos de linguagem e desenvolvimento de sistemas escaláveis com foco em eficiência operacional e apoio à decisão.
 
 ---
 
@@ -67,26 +67,62 @@ Criação de fluxos automatizados com n8n, integração com modelos de linguagem
 ## 🤖 Automação & Inteligência Artificial
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png"
-       height="40"
-       title="n8n" />
+  <strong>Automação de processos, integrações inteligentes e IA aplicada a operações reais.</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LLMs-GPT%20%7C%20OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-AI-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-Workflow%20Orchestration-00bfbf?style=for-the-badge" />
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="24" valign="middle" />
+  <strong> n8n</strong>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/anthropic/D4A574" height="24" valign="middle" />
+  <strong> Claude</strong>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="24" valign="middle" />
+  <strong> APIs</strong>
+</p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="24" valign="middle" />
+  <strong> Docker</strong>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="24" valign="middle" />
+  <strong> Google Cloud</strong>
+</p>
+
+<p align="center">
+  Workflows automatizados, integrações entre serviços, agentes com IA e orquestração de processos orientados à operação.
+</p>
+
+<p align="center">
+  <code>⚡ Trigger</code>
+  &nbsp;→&nbsp;
+  <code>🔁 Workflow</code>
+  &nbsp;→&nbsp;
+  <code>🔌 API / Data</code>
+  &nbsp;→&nbsp;
+  <code>🧠 Claude</code>
+  &nbsp;→&nbsp;
+  <code>📊 Decision</code>
+  &nbsp;→&nbsp;
+  <code>🚀 Action</code>
+</p>
+
+<p align="center">
+  <sub>
+    Entrada inteligente → processamento automatizado → resposta operacional
+  </sub>
 </p>
 
 ---
 
 ## 🎯 Atuação
 
-- 🔁 Automação de processos empresariais
-- 🔌 Integração entre sistemas e serviços
-- 📊 IA aplicada à análise e apoio à decisão
-- 🏗 Desenvolvimento de sistemas escaláveis
-- 🚀 Estruturação de ambientes focados em produção
+- Automação de processos empresariais
+- Integração entre sistemas e serviços
+- IA aplicada à análise e apoio à decisão
+- Desenvolvimento de sistemas escaláveis
+- Estruturação de ambientes focados em produção
+
 
 ---
 
@@ -114,7 +150,7 @@ Criação de fluxos automatizados com n8n, integração com modelos de linguagem
 
 [![API EMAIL](https://img.shields.io/badge/API%20EMAIL-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Draxsd3/api-email)
 
-<!-- Gestão de Horas Complementares -->
+<!-- Gestão de Horas -->
 <img src="https://cdn.simpleicons.org/react/61DAFB" height="24"/>
 <img src="https://cdn.simpleicons.org/vite/646CFF" height="24"/>
 <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="24"/>
@@ -123,14 +159,19 @@ Criação de fluxos automatizados com n8n, integração com modelos de linguagem
 <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="24"/>
 <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="24"/>
 
-[![GESTÃO DE HORAS · CENTRO PAULA SOUZA](https://img.shields.io/badge/GESTÃO%20DE%20HORAS%20COMPLEMENTARES%20%C2%B7%20CENTRO%20PAULA%20SOUZA-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Draxsd3/gestao-horas-complementares)
+[![GESTÃO DE HORAS · CENTRO PAULA SOUZA](https://img.shields.io/badge/GESTÃO%20DE%20HORAS%20%C2%B7%20CENTRO%20PAULA%20SOUZA-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Draxsd3/gestao-horas-complementares)
 
 </div>
 
 ## 📈 Atividade
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Draxsd3&theme=github_dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Draxsd3&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Draxsd3&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draxsd3&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
