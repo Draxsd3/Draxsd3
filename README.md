@@ -28,10 +28,10 @@ Sou desenvolvedor focado em arquitetura backend, automação de processos e apli
 
 Minha atuação é direcionada para:
 
-- Estruturação de sistemas prontos para produção  
-- Integração entre serviços e APIs  
-- Orquestração de fluxos inteligentes  
-- Aplicação estratégica de IA em processos reais  
+- Estruturação de sistemas prontos para produção
+- Integração entre serviços e APIs
+- Orquestração de fluxos inteligentes
+- Aplicação estratégica de IA em processos reais
 
 🎓 Desenvolvimento de Sistemas — **FATEC**
 
@@ -82,11 +82,11 @@ Criação de fluxos automatizados com n8n, integração com modelos de linguagem
 
 ## 🎯 Atuação
 
-- 🔁 Automação de processos empresariais  
-- 🔌 Integração entre sistemas e serviços  
-- 📊 IA aplicada à análise e apoio à decisão  
-- 🏗 Desenvolvimento de sistemas escaláveis  
-- 🚀 Estruturação de ambientes focados em produção  
+- 🔁 Automação de processos empresariais
+- 🔌 Integração entre sistemas e serviços
+- 📊 IA aplicada à análise e apoio à decisão
+- 🏗 Desenvolvimento de sistemas escaláveis
+- 🚀 Estruturação de ambientes focados em produção
 
 ---
 
@@ -100,28 +100,30 @@ Criação de fluxos automatizados com n8n, integração com modelos de linguagem
 <img src="https://cdn.simpleicons.org/react/61DAFB" height="24"/>
 <img src="https://cdn.simpleicons.org/mysql/4479A1" height="24"/>
 
-[![Gestão Escolar](https://img.shields.io/badge/GESTÃO%20ESCOLAR-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Draxsd3/gestao-escolar-fullstack)
-
+[![GESTÃO ESCOLAR](https://img.shields.io/badge/GESTÃO%20ESCOLAR-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Draxsd3/gestao-escolar-fullstack)
 
 <!-- CRM -->
-<img src="https://cdn.simpleicons.org/node.js/339933" height="24"/>
+<img src="https://cdn.simpleicons.org/nodedotjs/339933" height="24"/>
 <img src="https://cdn.simpleicons.org/react/61DAFB" height="24"/>
 
 [![CRM FULLSTACK](https://img.shields.io/badge/CRM%20FULLSTACK-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Draxsd3/CRM-FullStack)
 
-
 <!-- API Email -->
-<img src="https://cdn.simpleicons.org/node.js/339933" height="24"/>
+<img src="https://cdn.simpleicons.org/nodedotjs/339933" height="24"/>
 <img src="https://cdn.simpleicons.org/postman/FF6C37" height="24"/>
 
 [![API EMAIL](https://img.shields.io/badge/API%20EMAIL-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Draxsd3/api-email)
 
+<!-- Gestão de Horas Complementares -->
+<img src="https://cdn.simpleicons.org/react/61DAFB" height="24"/>
+<img src="https://cdn.simpleicons.org/vite/646CFF" height="24"/>
+<img src="https://cdn.simpleicons.org/nodedotjs/339933" height="24"/>
+<img src="https://cdn.simpleicons.org/express/FFFFFF" height="24"/>
+<img src="https://cdn.simpleicons.org/prisma/2D3748" height="24"/>
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="24"/>
+<img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="24"/>
 
-<!-- Sistema Loja -->
-<img src="https://cdn.simpleicons.org/node.js/339933" height="24"/>
-<img src="https://cdn.simpleicons.org/express/ffffff" height="24"/>
-
-[![SISTEMA LOJA](https://img.shields.io/badge/SISTEMA%20LOJA-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Draxsd3/sistema-loja-nodejs-DW3)
+[![GESTÃO DE HORAS COMPLEMENTARES · CENTRO PAULA SOUZA](https://img.shields.io/badge/GESTÃO%20DE%20HORAS%20COMPLEMENTARES%20%C2%B7%20CENTRO%20PAULA%20SOUZA-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Draxsd3/gestao-horas-complementares)
 
 </div>
 
@@ -130,8 +132,6 @@ Criação de fluxos automatizados com n8n, integração com modelos de linguagem
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Draxsd3&theme=github_dark" />
 </p>
-
-
 
 <p align="center">
   <sub>
