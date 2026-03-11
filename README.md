@@ -123,7 +123,7 @@ Criação de fluxos automatizados com n8n, integração com modelos de linguagem
 <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="24"/>
 <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="24"/>
 
-[![GESTÃO DE HORAS COMPLEMENTARES · CENTRO PAULA SOUZA](https://img.shields.io/badge/GESTÃO%20DE%20HORAS%20COMPLEMENTARES%20%C2%B7%20CENTRO%20PAULA%20SOUZA-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Draxsd3/gestao-horas-complementares)
+[![GESTÃO DE HORAS · CENTRO PAULA SOUZA](https://img.shields.io/badge/GESTÃO%20DE%20HORAS%20COMPLEMENTARES%20%C2%B7%20CENTRO%20PAULA%20SOUZA-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Draxsd3/gestao-horas-complementares)
 
 </div>
 
