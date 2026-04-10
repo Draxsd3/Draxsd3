@@ -25,7 +25,7 @@ Atuo como Full Stack Software Engineer na Gold Credit Securitizadora, estruturan
 
 <p>Fundador da <strong>StreetLabs</strong>, startup de tecnologia em construção.</p>
 
-<p>🎓 Desenvolvimento de Sistemas — <strong>FATEC</strong></p>
+<p>🎓 Desenvolvimento de Software — <strong>FATEC</strong></p>
 
 <div style="clear: both;"></div>
 
