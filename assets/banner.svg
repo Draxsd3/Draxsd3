@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 260" role="img" aria-labelledby="title desc">
-  <title id="title">Renan Ramos</title>
-  <desc id="desc">Banner em estilo de jornal com o nome Renan Ramos.</desc>
+  <title id="title">Renan Ramos — Software Engineer e Full Stack Developer</title>
+  <desc id="desc">Banner em estilo de jornal com o nome Renan Ramos e sua especialidade profissional.</desc>
 
   <defs>
     <filter id="paper" x="-5%" y="-10%" width="110%" height="120%">
@@ -20,5 +20,6 @@
   <path d="M48 72H632M48 188H632" stroke="#1b1a18" stroke-width="1.3"/>
   <path d="M48 78H632M48 182H632" stroke="#1b1a18" stroke-width=".35"/>
 
-  <text x="340" y="151" fill="#171614" font-family="Georgia, Times New Roman, serif" font-size="58" font-weight="700" letter-spacing="-1.5" text-anchor="middle">RENAN RAMOS</text>
+  <text x="340" y="138" fill="#171614" font-family="Georgia, Times New Roman, serif" font-size="58" font-weight="700" letter-spacing="-1.5" text-anchor="middle">RENAN RAMOS</text>
+  <text x="340" y="165" fill="#38352f" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600" letter-spacing="1.1" text-anchor="middle">SOFTWARE ENGINEER | FULL STACK DEVELOPER</text>
 </svg>
