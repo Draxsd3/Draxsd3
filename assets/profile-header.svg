@@ -1,29 +1,10 @@
-<svg width="100%" viewBox="0 0 1000 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Renan Ramos — Software Developer</title>
-  <desc id="desc">Cabeçalho em estilo terminal com a frase criar, automatizar e evoluir.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="260" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0B1020"/>
-      <stop offset="1" stop-color="#1A1238"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="110" y1="62" x2="740" y2="200" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#7C3AED"/><stop offset="1" stop-color="#22D3EE"/>
-    </linearGradient>
-    <filter id="glow" x="-30%" y="-80%" width="160%" height="260%">
-      <feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-  <rect width="1000" height="260" rx="20" fill="url(#bg)"/>
-  <path d="M0 212C135 168 220 259 375 212C540 162 658 232 1000 146V260H0V212Z" fill="#7C3AED" fill-opacity=".12"/>
-  <circle cx="62" cy="49" r="7" fill="#FB7185"/><circle cx="88" cy="49" r="7" fill="#FBBF24"/><circle cx="114" cy="49" r="7" fill="#4ADE80"/>
-  <text x="55" y="103" fill="#A5B4FC" font-family="monospace" font-size="20">$ whoami</text>
-  <text x="55" y="151" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700">Renan Ramos</text>
-  <text x="55" y="190" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="20">criando produtos, automações e experiências digitais</text>
-  <text x="55" y="225" fill="#67E8F9" font-family="monospace" font-size="16" filter="url(#glow)">build • learn • ship_</text>
-  <g opacity=".85">
-    <rect x="806" y="73" width="135" height="116" rx="12" stroke="#A78BFA" stroke-width="2"/>
-    <path d="M834 110L859 131L834 152" stroke="#22D3EE" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M875 153H914" stroke="#A78BFA" stroke-width="7" stroke-linecap="round"/>
-    <circle cx="876" cy="130" r="69" stroke="#22D3EE" stroke-opacity=".18" stroke-width="2"/>
-  </g>
+<svg width="100%" viewBox="0 0 1000 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Renan Ramos</title>
+  <desc id="desc">Desenvolvedor de software</desc>
+  <rect width="1000" height="180" rx="18" fill="#0D1117"/>
+  <path d="M64 125H936" stroke="#30363D"/>
+  <circle cx="76" cy="55" r="8" fill="#58A6FF"/>
+  <text x="100" y="64" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">Renan Ramos</text>
+  <text x="76" y="108" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="18">desenvolvedor de software · produtos · automação</text>
+  <text x="76" y="153" fill="#58A6FF" font-family="monospace" font-size="15">building useful things</text>
 </svg>
