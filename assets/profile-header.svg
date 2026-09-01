@@ -1,10 +1,9 @@
 <svg width="100%" viewBox="0 0 1000 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Renan Ramos</title>
-  <desc id="desc">Desenvolvedor de software</desc>
-  <rect width="1000" height="180" rx="18" fill="#0D1117"/>
-  <path d="M64 125H936" stroke="#30363D"/>
-  <circle cx="76" cy="55" r="8" fill="#58A6FF"/>
-  <text x="100" y="64" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">Renan Ramos</text>
-  <text x="76" y="108" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="18">desenvolvedor de software · produtos · automação</text>
-  <text x="76" y="153" fill="#58A6FF" font-family="monospace" font-size="15">building useful things</text>
+  <desc id="desc">Desenvolvedor de software focado em produtos e automação</desc>
+  <rect width="1000" height="180" rx="16" fill="#0D1117"/>
+  <path d="M64 124H936" stroke="#30363D"/>
+  <text x="64" y="53" fill="#58A6FF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2">SOFTWARE DEVELOPER</text>
+  <text x="64" y="99" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700">Renan Ramos</text>
+  <text x="64" y="153" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="18">produtos digitais, integrações e automação</text>
 </svg>
