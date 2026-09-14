@@ -1,14 +1,18 @@
 ~~~bash
-╔════════════════════════════════════════════════════════════════════════╗
-║                                                                        ║
-║   $ whoami                                                             ║
-║   RENAN RAMOS                                                          ║
-║   Software Engineer | Backend | Full Stack | Automation                ║
-║                                                                        ║
-║   $ system.status                                                      ║
-║   building reliable systems, APIs and intelligent workflows            ║
-║                                                                        ║
-╚════════════════════════════════════════════════════════════════════════╝
+┌─[ renan@software-engineer ]─[ ~/profile ]─────────────────────────────┐
+│                                                                        │
+│  $ ./profile --boot --environment=production                          │
+│                                                                        │
+│  [*] loading identity module .............. OK                         │
+│  [*] connecting api gateway .............. OK                         │
+│  [*] initializing data layer ............. OK                         │
+│  [*] starting automation engine .......... OK                         │
+│                                                                        │
+│  > RENAN RAMOS                                                        │
+│  > SOFTWARE ENGINEER | BACKEND | FULL STACK | AUTOMATION              │
+│  > STATUS: SYSTEMS ONLINE                                              │
+│                                                                        │
+└────────────────────────────────────────────────────────────────────────┘
 ~~~
 
 <p align="center">
@@ -24,8 +28,8 @@ Desenvolvedor Full Stack com foco em **backend, integrações, automação e arq
 Trabalho em problemas que exigem mais do que uma interface: modelagem de domínio, contratos de API, autenticação, persistência, testes e ambientes reproduzíveis.
 
 - 🎓 Desenvolvimento de Software — **FATEC**
-- 🚀 Fundador da **StreetLabs**, iniciativa de produtos de tecnologia
-- 📍 Registro, SP · aberto a oportunidades e conversas sobre engenharia
+- ⚙️ Foco atual: backend, automação e soluções que conectam operação e dados
+- 🧩 Especialidade: sistemas orientados a dados, APIs e automação
 
 ## Como penso engenharia
 
@@ -59,9 +63,9 @@ Trabalho em problemas que exigem mais do que uma interface: modelagem de domíni
 ## Em construção
 
 - Automações com IA para processos operacionais e integrações entre ferramentas.
-- Produtos próprios pela StreetLabs, orientados a problemas reais e entrega iterativa.
+- Estudos e protótipos de produtos digitais, orientados a problemas reais e entrega iterativa.
 - Projetos públicos que evidenciam backend, persistência, testes e infraestrutura.
 
 ## Contato
 
-Estou aberto a conversar sobre engenharia de software, automação e produtos digitais. [LinkedIn](https://www.linkedin.com/in/renan-ramos-068759243/) · [Portfólio](https://rrenanramos.vercel.app/)
+Disponível para oportunidades de Software Engineer com foco em backend, full stack e automação. [LinkedIn](https://www.linkedin.com/in/renan-ramos-068759243/) · [Portfólio](https://rrenanramos.vercel.app/)
