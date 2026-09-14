@@ -1,60 +1,45 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Renan Ramos — Software Engineer | Full Stack Developer" />
-</p>
-
-<h1 align="center">Renan Ramos</h1>
-<p align="center">
-  <strong>Full Stack Software Engineer · Backend · Automação · IA aplicada</strong>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1220,100:1e3a5f&height=160&section=header&text=RENAN%20RAMOS&fontColor=38bdf8&fontSize=52&fontAlignY=43&desc=SOFTWARE%20ENGINEER%20%7C%20BACKEND%20%7C%20FULL%20STACK&descAlignY=68&descSize=16&animation=fadeIn" alt="Renan Ramos — Software Engineer" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/renan-ramos-068759243/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://rrenanramos.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-Visitar-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
-  <a href="https://github.com/Draxsd3"><img src="https://img.shields.io/badge/GitHub-Draxsd3-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <strong>Construindo sistemas web, APIs, automações e produtos com IA aplicada.</strong>
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/renan-ramos-068759243/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://rrenanramos.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Visitar-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfólio" /></a>
+  <a href="https://github.com/Draxsd3?tab=repositories"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-Explorar-181717?style=flat-square&logo=github&logoColor=white" alt="Repositórios" /></a>
+</p>
 
-## Sobre mim
+## Perfil
 
-Desenvolvedor Full Stack com foco em **arquitetura backend, automação de processos e aplicações práticas de IA**. Atualmente, atuo na **Gold Credit Securitizadora**, construindo sistemas e automações internas com atenção a eficiência operacional, integrações confiáveis e escalabilidade.
+Sou desenvolvedor Full Stack com foco em **backend, integrações, automação e arquitetura de aplicações**. Trabalho na Gold Credit Securitizadora criando sistemas e fluxos internos que conectam regras de negócio, dados e operação.
 
-Gosto de transformar problemas de negócio em soluções simples de usar e bem estruturadas por dentro — pensando além do happy path, nas regras, integrações e falhas possíveis.
+Meu interesse está em problemas que exigem mais do que uma interface: modelagem de domínio, APIs consistentes, autenticação, integrações, banco de dados, testes e entrega reproduzível.
 
-- 🎓 Desenvolvimento de Software — **FATEC**
-- 🚀 Fundador da **StreetLabs**, iniciativa de produtos de tecnologia
-- 📍 Registro, SP · aberto a conexões e conversas sobre tecnologia
+**Em foco:** TypeScript, Python, React, Next.js, FastAPI, Node.js, PostgreSQL, Docker, CI/CD e automação com n8n.
 
-## No que trabalho
+## Projetos técnicos em destaque
 
-| Área | Como aplico |
-| --- | --- |
-| **Backend & APIs** | Serviços, regras de negócio, autenticação, integrações e bancos de dados. |
-| **Full Stack** | Produtos web completos, do fluxo de usuário à infraestrutura da aplicação. |
-| **Automação & IA** | Workflows com n8n, APIs e modelos de linguagem para reduzir trabalho manual. |
-| **Arquitetura** | Código modular, permissões, observabilidade e decisões alinhadas ao problema. |
-
-## Projetos em destaque
-
-| Projeto | Destaques | Stack |
+| Projeto | O que demonstra | Tecnologias |
 | --- | --- | --- |
-| [Gestão Escolar](https://github.com/Draxsd3/gestao-escolar-fullstack) | Plataforma acadêmica e financeira com perfis de administrador, professor, aluno e responsável; permissões e documentos. | Laravel · React · Sanctum |
-| [CRM Full Stack](https://github.com/Draxsd3/CRM-FullStack) | Gestão de leads e pipeline comercial com autenticação por papel, drag and drop e consulta de CNPJ com fallback. | Node.js · Express · React |
-| [API Email](https://github.com/Draxsd3/api-email) | API objetiva para envio de e-mails, criada para ser simples de integrar e manter. | Node.js |
+| [ValiSign Tech Showcase](https://github.com/Draxsd3/valisign-tech-showcase) | Vitrine de gestão contratual com ciclo de assinaturas, persistência e testes. | FastAPI · React · PostgreSQL |
+| [FutManager](https://github.com/Draxsd3/FutManager) | Sistema de gestão de futebol construído como aplicação web moderna. | Next.js · TypeScript |
+| [Spring Boot Docker CI](https://github.com/Draxsd3/springboot-docker-ci) | API com testes automatizados e ambiente de execução containerizado. | Java · Spring Boot · JUnit · Maven · Docker Compose |
+| [Commerce Hub API](https://github.com/Draxsd3/commerce-hub-api) | API REST de e-commerce documentada e integrada a banco relacional. | Flask · SQLAlchemy · PostgreSQL · Swagger |
+| [Focusboard](https://github.com/Draxsd3/focusboard) | Aplicação full stack de foco e tarefas com API REST. | Python · Flask · Flet |
 
-## Stack principal
+## Competências técnicas
 
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
+| Camada | Tecnologias |
+| --- | --- |
+| Backend | Node.js · FastAPI · Flask · Laravel · Spring Boot |
+| Frontend | React · Next.js · TypeScript |
+| Dados | PostgreSQL · MySQL · MongoDB · SQLAlchemy |
+| Entrega | Docker · Docker Compose · Git · JUnit · CI/CD |
+| Automação | n8n · APIs · workflows · IA aplicada |
 
-## Vamos conversar
+## Contato
 
-Se você procura alguém para construir, organizar ou automatizar um produto digital, [fale comigo pelo LinkedIn](https://www.linkedin.com/in/renan-ramos-068759243/) ou veja mais trabalhos no [portfólio](https://rrenanramos.vercel.app/).
+Estou aberto a conversar sobre desafios de engenharia, automação e produtos digitais. [LinkedIn](https://www.linkedin.com/in/renan-ramos-068759243/) · [Portfólio](https://rrenanramos.vercel.app/)
