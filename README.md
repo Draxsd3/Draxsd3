@@ -1,71 +1,65 @@
-~~~bash
-┌─[ renan@software-engineer ]─[ ~/profile ]─────────────────────────────┐
-│                                                                        │
-│  $ ./profile --boot --environment=production                          │
-│                                                                        │
-│  [*] loading identity module .............. OK                         │
-│  [*] connecting api gateway .............. OK                         │
-│  [*] initializing data layer ............. OK                         │
-│  [*] starting automation engine .......... OK                         │
-│                                                                        │
-│  > RENAN RAMOS                                                        │
-│  > SOFTWARE ENGINEER | BACKEND | FULL STACK | AUTOMATION              │
-│  > STATUS: SYSTEMS ONLINE                                              │
-│                                                                        │
-└────────────────────────────────────────────────────────────────────────┘
-~~~
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/renan-ramos-068759243/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://rrenanramos.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
-  <a href="https://github.com/Draxsd3?tab=repositories"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+![Terminal de Renan Ramos: desenvolvedor full stack, backend e automação](assets/terminal-renan.png)
 
-## Perfil
+[Portfólio](https://rrenanramos.vercel.app/) &nbsp; • &nbsp; [LinkedIn](https://www.linkedin.com/in/renan-ramos-068759243/) &nbsp; • &nbsp; [Repositórios](https://github.com/Draxsd3?tab=repositories)
 
-Desenvolvedor Full Stack com foco em **backend, integrações, automação e arquitetura de aplicações**. Na Gold Credit Securitizadora, construo sistemas e fluxos internos que conectam regras de negócio, dados e operação.
+</div>
 
-Trabalho em problemas que exigem mais do que uma interface: modelagem de domínio, contratos de API, autenticação, persistência, testes e ambientes reproduzíveis.
+---
 
-- 🎓 Desenvolvimento de Software — **FATEC**
-- ⚙️ Foco atual: backend, automação e soluções que conectam operação e dados
-- 🧩 Especialidade: sistemas orientados a dados, APIs e automação
+### Olá, eu sou o Renan 👋
 
-## Como penso engenharia
+Sou desenvolvedor Full Stack com foco em **backend, integrações e automação**. Gosto de entender o problema antes de escolher a tecnologia e de criar soluções que façam sentido para quem as utiliza.
 
-| Princípio | Aplicação |
-| --- | --- |
-| **Domínio antes do framework** | Começo por regras, usuários e operação antes da escolha de tecnologia. |
-| **Integrações explícitas** | APIs, dados, autenticação e falhas precisam de contratos claros. |
-| **Entrega reproduzível** | Docker, testes e automação reduzem surpresas entre desenvolvimento e produção. |
-| **Simplicidade sustentável** | Estruturo o necessário para evoluir sem criar complexidade gratuita. |
+Nos meus projetos, exploro desde a modelagem de regras e contratos de API até persistência, testes e ambientes de desenvolvimento reproduzíveis.
 
-## Projetos técnicos em destaque
+`APIs REST` &nbsp; `Sistemas orientados a dados` &nbsp; `Automação de processos`
 
-| Projeto | Recorte técnico | Tecnologias |
-| --- | --- | --- |
-| [ValiSign Tech Showcase](https://github.com/Draxsd3/valisign-tech-showcase) | Gestão contratual com ciclo de assinaturas, persistência e testes. | FastAPI · React · PostgreSQL |
-| [FutManager](https://github.com/Draxsd3/FutManager) | Sistema de gestão de futebol como aplicação web moderna. | Next.js · TypeScript |
-| [Spring Boot Docker CI](https://github.com/Draxsd3/springboot-docker-ci) | API com testes automatizados e ambiente de execução containerizado. | Java · Spring Boot · JUnit · Maven · Docker Compose |
-| [Commerce Hub API](https://github.com/Draxsd3/commerce-hub-api) | API REST de e-commerce com documentação e banco relacional. | Flask · SQLAlchemy · PostgreSQL · Swagger |
-| [Focusboard](https://github.com/Draxsd3/focusboard) | Aplicação full stack de foco e tarefas com API REST. | Python · Flask · Flet |
+---
 
-## Stack
+### Projetos em destaque
 
-| Camada | Tecnologias |
-| --- | --- |
-| Backend | Node.js · FastAPI · Flask · Laravel · Spring Boot |
-| Frontend | React · Next.js · TypeScript |
-| Dados | PostgreSQL · MySQL · MongoDB · SQLAlchemy |
-| Entrega | Docker · Docker Compose · Git · JUnit · CI/CD |
-| Automação | n8n · APIs · workflows · IA aplicada |
+#### [01 / ValiSign Tech Showcase ↗](https://github.com/Draxsd3/valisign-tech-showcase)
 
-## Em construção
+Uma vitrine técnica dos padrões de uma plataforma de contratos e assinaturas: ciclo de solicitações, regras de transição, esquema de auditoria e verificações automatizadas. **Não é a aplicação de produção.**
 
-- Automações com IA para processos operacionais e integrações entre ferramentas.
-- Estudos e protótipos de produtos digitais, orientados a problemas reais e entrega iterativa.
-- Projetos públicos que evidenciam backend, persistência, testes e infraestrutura.
+`FastAPI` `React` `PostgreSQL` `GitHub Actions`
 
-## Contato
+#### [02 / Commerce Hub API ↗](https://github.com/Draxsd3/commerce-hub-api)
 
-Disponível para oportunidades de Software Engineer com foco em backend, full stack e automação. [LinkedIn](https://www.linkedin.com/in/renan-ramos-068759243/) · [Portfólio](https://rrenanramos.vercel.app/)
+API REST para um cenário de e-commerce, organizada em módulos de autenticação, usuários, produtos e pedidos, com documentação Swagger. A autenticação é simplificada para desenvolvimento.
+
+`Python` `Flask` `SQLAlchemy` `PostgreSQL` `Docker`
+
+#### [03 / FutManager ↗](https://github.com/Draxsd3/FutManager)
+
+Sistema web para gestão de futebol desenvolvido com Next.js e TypeScript.
+
+`Next.js` `TypeScript`
+
+#### [04 / Spring Boot Docker CI ↗](https://github.com/Draxsd3/springboot-docker-ci)
+
+Projeto de API com testes automatizados, build Maven, containers e fluxo de integração contínua.
+
+`Java` `Spring Boot` `JUnit` `Docker` `GitHub Actions`
+
+[Ver todos os repositórios →](https://github.com/Draxsd3?tab=repositories)
+
+---
+
+### Tecnologias e ferramentas
+
+**Backend** &nbsp; Python · FastAPI · Flask · Node.js · Laravel · Spring Boot  
+**Frontend** &nbsp; React · Next.js · TypeScript  
+**Dados** &nbsp; PostgreSQL · MySQL · MongoDB · SQLAlchemy  
+**Entrega** &nbsp; Docker · Docker Compose · Git · JUnit · CI/CD  
+**Automação** &nbsp; n8n · APIs · workflows · IA aplicada
+
+---
+
+### Vamos conversar?
+
+Tenho interesse em oportunidades e projetos de **backend, desenvolvimento full stack e automação**.
+
+[Conheça meu portfólio](https://rrenanramos.vercel.app/) &nbsp; • &nbsp; [Conecte-se no LinkedIn](https://www.linkedin.com/in/renan-ramos-068759243/)
